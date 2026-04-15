@@ -88,16 +88,20 @@ P {
     color: white;
 }
 
-.products img {
-    width: 300px;
-    height: 300px;
-    margin: 10px;
-}
 
 .products {
     background-color:white;
     padding: 15px;
     border-radius: 12px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+.products img {
+    width: 300px;
+    height: 300px;
+    margin: 10px;
 }
 
 
@@ -111,6 +115,6 @@ P {
 #welcome{
     text-align: center;
 
-/* PAGE TITLES (Hair Tips, About) */
+
 
 
