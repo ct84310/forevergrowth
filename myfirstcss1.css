@@ -70,7 +70,7 @@ border-left-width: 5px;
 }
 
 P {
-    color:#808080;
+    color:black;
     font-size: 14px;
 }
 
@@ -84,8 +84,6 @@ P {
     text-decoration: none;
     border-radius: 5px;
     border: 5px solid black;
-}
-.buttons a {
     background-color: black;
     color: white;
 }
@@ -112,6 +110,7 @@ P {
 
 #welcome{
     text-align: center;
-}
+
+/* PAGE TITLES (Hair Tips, About) */
 
 
